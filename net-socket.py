@@ -9,7 +9,7 @@ socket.AF_INET --> IPv4 bilan ishlaydi.
 socket.SOCK_STREAM --> TCP connection ishlatadi
 """
 
-s.connect(("10.13.4.248", 4444))
+s.connect(("10.13.4.248", 6666))
 
 """
 10.13.4.248 --> IP

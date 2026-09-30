@@ -23,7 +23,7 @@ try:
 
     print(f"\n================= BANNER =================\n")
     print(banner.strip())
-    print(f"\n=============================================")
+    print(f"\n===========================================")
 
 except ValueError:
     print("[!] Port 1-65535 oralig'idagi son bo'lishi kerak.")
